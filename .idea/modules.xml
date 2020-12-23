@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CircleIndicator-master.iml" filepath="$PROJECT_DIR$/.idea/modules/CircleIndicator-master.iml" group="CircleIndicator-master" />
+      <module fileurl="file://$PROJECT_DIR$/LoopingViewPager/LoopingViewPager.iml" filepath="$PROJECT_DIR$/LoopingViewPager/LoopingViewPager.iml" group="CircleIndicator-master/LoopingViewPager" />
+      <module fileurl="file://$PROJECT_DIR$/circleindicator/circleindicator.iml" filepath="$PROJECT_DIR$/circleindicator/circleindicator.iml" group="CircleIndicator-master/circleindicator" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" group="CircleIndicator-master/sample" />
+    </modules>
+  </component>
+</project>
